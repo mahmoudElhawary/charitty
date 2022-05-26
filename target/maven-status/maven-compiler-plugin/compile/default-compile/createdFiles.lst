@@ -1,0 +1,12 @@
+com\ffs\charity\common\security\JwtFilter.class
+com\ffs\charity\common\config\repository\ConfigurationRepository.class
+com\ffs\charity\common\audit\AuditEventHandler.class
+com\ffs\charity\common\config\domain\Configuration.class
+com\ffs\charity\common\restcaller\RestApiCallerImpl.class
+com\ffs\charity\common\config\service\ConfigurationService.class
+com\ffs\charity\CharityApplication.class
+com\ffs\beans\Products.class
+com\ffs\charity\common\security\JwtServiceImpl.class
+com\ffs\charity\common\config\service\ConfigurationServiceImpl.class
+com\ffs\charity\TestApiController.class
+com\ffs\charity\common\handling\ExceptionConverter.class
